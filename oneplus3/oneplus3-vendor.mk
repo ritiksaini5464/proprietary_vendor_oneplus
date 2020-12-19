@@ -86,6 +86,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/oneplus3/proprietary/lib/libOmxMux.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libOmxMux.so \
     vendor/oneplus/oneplus3/proprietary/vendor/lib/lib_fpc_tac_shared.so:$(TARGET_COPY_OUT_VENDOR)/lib/lib_fpc_tac_shared.so \
     vendor/oneplus/oneplus3/proprietary/lib/lib_oneplus_md.so:$(TARGET_COPY_OUT_SYSTEM)/lib/lib_oneplus_md.so \
+    vendor/oneplus/oneplus3/proprietary/lib/libmms_hal_vstab.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libmms_hal_vstab.so \
     vendor/oneplus/oneplus3/proprietary/lib/libdiag_system.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libdiag_system.so \
     vendor/oneplus/oneplus3/proprietary/lib/libmm-qcamera.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libmm-qcamera.so \
     vendor/oneplus/oneplus3/proprietary/lib/libmmosal.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libmmosal.so \
